@@ -1,0 +1,34 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+body{
+  width:100%;
+}
+#gameContainer{
+    text-align: center;
+  
+}
+#gameBoard{
+    border: 3px solid;
+}
+#scoreText{
+    font-family: "Permanent Marker", cursive;
+    font-size: 100px;
+}
+#resetBtn{
+    font-family: "Permanent Marker", cursive;
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 4px solid;
+    border-radius: 15px;
+    cursor: pointer;
+}
+div{
+    width: 100%;
+    height: 100%;
+
+}
